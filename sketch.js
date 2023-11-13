@@ -409,7 +409,7 @@ function gamePlay(){
     text("hold space bar to drift. collect oxygen tanks and avoid asteroids to survive. collect powerups for a boost!",width/2,height/2)
     textAlign(CENTER,BOTTOM);
     fill(255,50)
-    text("coded by marcus rouquet",width/2,height-height/30)
+    // text("coded by marcus rouquet",width/2,height-height/30)
     // textAlign(CENTER,BOTTOM)
     // text("beat your score, don't die",width/2,height-height/3)
     textSize(windowHeight/6);
